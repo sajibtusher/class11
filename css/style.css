@@ -1,0 +1,270 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+a; a:hover{
+	text-decoration: none;
+}
+
+body{
+	font-family: 'Source Sans 3', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Source Sans 3', sans-serif;
+}
+
+ul{
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	list-style: none;
+}
+
+
+
+.header-section{
+	padding: 15px 0 0 0 ;
+	background: url(../img/banner.png) center center no-repeat;
+	background-size: cover;
+}
+
+.header-section .logo2{
+	margin-left: 5px;
+}
+
+.header-section .nav-link{
+	color: white !important;
+	margin-left: 8px;
+}
+
+.header-section .nav-link:hover{
+	background: url(../img/line.png) center bottom no-repeat;
+}
+
+.header-section .content{
+	padding: 80px 0px;
+}
+
+.header-section .content span{
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 600;
+	color: #008ed6;
+	letter-spacing: 1px;
+    line-height: 40px;
+}
+
+.header-section .content h1{
+	font-size: 48px;
+	font-weight: 600;
+	color: white;
+	padding-right: 32px;
+}
+
+.header-section .content p{
+	font-size: 18px;
+	color: #999999;
+	padding-right: 125px;
+	line-height: 28px;
+}
+
+.header-section .buttons{
+	padding-top: 50px;
+}
+
+.header-section .buttons .btn-primary{
+	background: #008ed6 !important;
+	border-radius: 3px;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 14px;
+	margin-right: 16px;
+	transition: .5s;
+}
+
+.header-section .buttons .btn-primary:hover{
+	background: transparent !important;
+	border: 1px solid #787879 !important;
+	color: white;
+	transition: .5s;
+}
+
+.header-section .buttons .btn-info{
+	background: transparent !important;
+	border: 1px solid #787879 !important;
+	border-radius: 3px;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 14px;
+	color: white;
+	transition: .5s;
+}
+
+.header-section .buttons .btn-info:hover{
+	background: #008ed6 !important;
+	border: 1px solid  #008ed6 !important;
+	transition: .5s;
+}
+
+.header-section .img{
+	    margin: 60px 0px 0px 120px;
+}
+
+.feature-section{
+	padding: 60px 0;
+	border-bottom: 1px solid #ededed;
+}
+
+.feature-section .title{
+	text-align: center;
+	padding-bottom: 70px;
+}
+
+.feature-section .title p{
+    text-transform: uppercase;
+    color: #008ed6;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.feature-section .title h2{
+	font-weight: 600;
+    font-size: 42px;
+    color: #1a1a1a;
+}
+
+.feature-section .title img{
+	padding-top: 25px;
+}
+
+.feature-section .feature{
+	text-align: center;
+}
+
+.feature-section .feature img{
+	padding-bottom: 25px;
+}
+
+.feature-section .feature h4{
+	font-weight: 400;
+}
+
+.feature-section .feature p{
+	color: #999999;
+    padding: 0px 45px;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+
+.beautiful-section{
+	padding: 50px 0;
+}
+
+.beautiful-section .phone{
+	margin-left: 62px;
+}
+
+.beautiful-section .details{
+	padding-top: 46px;
+}
+
+.beautiful-section .details span{
+	text-transform: uppercase;
+    color: #008ed6;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.beautiful-section .details h2{
+	font-weight: 600;
+    font-size: 42px;
+    color: #1a1a1a;
+    margin-top: 8px;
+}
+
+.beautiful-section .details .line{
+	padding: 15px 0 30px 0;
+}
+
+.beautiful-section .details p{
+    color: #999999;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    margin-right: 76px;
+    padding-bottom: 10px;
+}
+
+.beautiful-section .details ul{
+	padding: 0;
+
+}
+
+.beautiful-section .details ul li{
+    padding: 6px 0px;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.beautiful-section .details ul li img{
+	width: 16px;
+	margin-right: 10px;
+}
+
+.super-section{
+	background: #f2f2f2;
+	padding: 50px 0;
+}
+
+.super-section .details{
+	padding-top: 50px;
+}
+
+.super-section .details span{
+	text-transform: uppercase;
+    color: #008ed6;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.super-section .details h2{
+	font-weight: 600;
+    font-size: 42px;
+    color: #1a1a1a;
+    margin-top: 8px;
+}
+
+.super-section .details .line{
+	padding: 15px 0 30px 0;
+}
+
+.super-section .details p{
+    color: #999999;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    margin-right: 76px;
+    padding-bottom: 10px;
+}
+
+.super-section .phone{
+
+}
+
+.super-section .phone img{
+	width: 100%;
+	margin-left: -70px;
+}
+
+
+
+
